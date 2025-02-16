@@ -6,7 +6,7 @@ public class CV{
 		System.out.printf("Name:\tMuhammad Luqman\n");
 		System.out.println("Roll No:    FA24-BCS-074");
 		System.out.printf("CGPA:\t4.00\n");
-		System.out.printf("Phone No:\t+923234679797");
+		System.out.printf("Phone No:\t+921234567899");
 	}
 
 }
