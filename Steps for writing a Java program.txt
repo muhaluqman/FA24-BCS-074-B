@@ -1,7 +1,0 @@
-Steps for writing a Java program:
-1. Open Notepad and write Java code.
-2. Save that file with .java extension. the file name should be in double quotes.
-3. Access the Command Prompt by writing "cmd" in file path.
-4. Compile the code written in java by writing "javac FILENAME,java" in the Command Prompt.
-5. Debug any errors, save and recompile.
-6. Run that file by writing "java FILENAME" in the Command Prompt.
